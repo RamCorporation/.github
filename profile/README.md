@@ -1,12 +1,26 @@
-## Hi there 👋
+<div style="text-align: center;">
+<img src="smallerFullLogo.png" alt="RamCorp Logo">
+</div>
 
-<!--
+# About
 
-**Here are some ideas to get you started:**
+---
+The Ram Corporation, or RamCorp, is a development project started by RamGames in January 2023. The goal of the project is to establish a common ground for the storage and distribution of all projects set forth from the group and it's contributors.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Types of Work
+
+---
+The Ram Corporation primarily works with the Java programming language. As the group's slogan may suggest, the main types of projects that are published are libraries to help integrate aspects of the working world that are not included in the Java language by de facto. However, the project does also include personal projects in the java language, such as Minecraft mods.
+
+# How To Contribute
+
+---
+To Contribute to the group, it is highly suggested that the said person create a pull request or issue report on the matter. However, if you feel your skills may be a good fit for our group, feel free to contact us with one of the methods listed below in the "How To Contact" section
+
+# How To Contact
+
+---
+To Contact someone within the Ram Corporation group, please use one of the following methods:
+
+- RamGemes via Discord (@Ramixin)
+- Everyone via Email (TheRamCorporation@gmail.com)
